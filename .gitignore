@@ -1,0 +1,21 @@
+# Archivos sensibles
+secreto.txt
+.env
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+
